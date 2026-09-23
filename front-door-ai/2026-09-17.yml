@@ -1,0 +1,25 @@
+# Front Door AI Index — citymapper — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: citymapper
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: citymapper.com
+  final_host: citymapper.com
+  ownership: own
+  owner: citymapper
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 1
+  host_score: 1
+  density: 3.1
+  words: 323
+  tiers:
+    agentic: 0
+    core: 1
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 1
